@@ -1,0 +1,2 @@
+module MuscleMachinesHelper
+end
